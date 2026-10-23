@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;config.xml&apos; to &apos;js&apos;" description="Move &apos;config.xml&apos; to &apos;js&apos;" destination="js" element1="config.xml" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1772711277396" updateReferences="true"/>
+</session>

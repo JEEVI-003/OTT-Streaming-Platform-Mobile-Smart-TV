@@ -1,0 +1,10 @@
+{
+  "id": "com.meganar.tv",
+  "version": "4.0.0",
+  "vendor": "Meganar",
+  "type": "web",
+  "main": "index.html",
+  "title": "MediaJungle",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "com.meganar.tv",
+  "version": "4.0.0",
+  "vendor": "Meganar Tech",
+  "type": "web",
+  "main": "index.html",
+  "title": "Meganar TV",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png"
+}
